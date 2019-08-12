@@ -23,4 +23,4 @@ Reboot your system and check the status of the service:
 * sudo systemctl status myservice
 
 ### Developers ###
-Raissa Furlan Davinha (raissa.furlan@sensorvision.com.br)
+Raissa Furlan Davinha (raissa.furlan@gmail.com)
