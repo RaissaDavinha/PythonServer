@@ -1,7 +1,7 @@
-# AgroCam Server #
+# Python Server #
 
 ### What is this repository for? ###
-Agrocam Server to connect with AndroidCam
+Python Server to connect with AndroidCam
 
 ### How do I get set up? ###
 Set in pythonServer.service the variable ExecStart to servidorPython.py location
