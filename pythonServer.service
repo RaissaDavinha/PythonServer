@@ -1,0 +1,10 @@
+
+[Unit]
+Description=Agrocam Sever
+
+[Service]
+Type=simple
+ExecStart=/home/raissa/Documents/agrocam_py/action_commands/servidorPython.py
+
+[Install]
+WantedBy=multi-user.target
